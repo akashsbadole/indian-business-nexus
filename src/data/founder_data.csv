@@ -1,0 +1,18 @@
+
+id,company_id,name,position,linkedinProfile,bio
+f1,1,F. C. Kohli,Founder,#,"Often referred to as the Father of the Indian Software Industry, F. C. Kohli was the first CEO of TCS."
+f2,2,N. R. Narayana Murthy,Co-founder,#,"N. R. Narayana Murthy is an Indian billionaire businessman and co-founder of Infosys."
+f3,2,Nandan Nilekani,Co-founder,#,"Nandan Nilekani is an Indian entrepreneur and co-founder of Infosys."
+f4,3,Sachin Bansal,Co-founder,#,"Sachin Bansal is an Indian businessman, known for co-founding Flipkart."
+f5,3,Binny Bansal,Co-founder,#,"Binny Bansal is an Indian billionaire businessman, known for co-founding Flipkart."
+f6,4,Byju Raveendran,Founder,#,"Byju Raveendran is an Indian billionaire businessman and founder of BYJU'S."
+f7,5,Vijay Shekhar Sharma,Founder,#,"Vijay Shekhar Sharma is an Indian billionaire businessman and founder of Paytm."
+f8,6,Bhavish Aggarwal,Co-founder,#,"Bhavish Aggarwal is an Indian entrepreneur and co-founder of Ola Cabs."
+f9,6,Ankit Bhati,Co-founder,#,"Ankit Bhati is an Indian entrepreneur and co-founder of Ola Cabs."
+f10,7,Deepinder Goyal,Co-founder,#,"Deepinder Goyal is an Indian entrepreneur and founder of Zomato."
+f11,7,Pankaj Chaddah,Co-founder,#,"Pankaj Chaddah is an Indian entrepreneur and co-founder of Zomato."
+f12,8,Sriharsha Majety,Co-founder,#,"Sriharsha Majety is an Indian entrepreneur and co-founder of Swiggy."
+f13,8,Nandan Reddy,Co-founder,#,"Nandan Reddy is an Indian entrepreneur and co-founder of Swiggy."
+f14,8,Rahul Jaimini,Co-founder,#,"Rahul Jaimini is an Indian entrepreneur and co-founder of Swiggy."
+f15,9,Mukesh Ambani,Founder,#,"Mukesh Ambani is an Indian billionaire businessman and founder of Reliance Jio."
+f16,10,Ritesh Agarwal,Founder,#,"Ritesh Agarwal is an Indian entrepreneur and founder of Oyo Rooms."

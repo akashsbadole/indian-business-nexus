@@ -1,0 +1,18 @@
+
+id,company_id,amount,investors,fundingStage,date
+fr1,3,16000000,"Tiger Global Management",Series A,2009-10-01
+fr2,3,150000000,"Naspers, Tiger Global Management, Accel Partners",Series D,2012-08-01
+fr3,3,16000000000,Walmart,Acquisition,2018-05-01
+fr4,4,75000000,"Sequoia Capital, Sofina, Lightspeed Ventures",Series C,2016-03-01
+fr5,4,150000000,Qatar Investment Authority,Series D,2019-07-01
+fr6,4,500000000,"Silver Lake, Tiger Global, General Atlantic",Series F,2020-09-01
+fr7,5,150000000,"Alibaba Group, SAIF Partners",Series D,2015-02-01
+fr8,5,1400000000,"SoftBank Vision Fund, Alibaba Group",Series G,2017-05-01
+fr9,6,330000000,SoftBank Group,Series D,2014-10-01
+fr10,6,500000000,"Baillie Gifford, Didi Chuxing, Tiger Global Management",Series F,2015-11-01
+fr11,7,60000000,"Info Edge, Sequoia Capital",Series D,2013-11-01
+fr12,7,120000000,"Alibaba Group, Ant Financial",Series G,2018-02-01
+fr13,8,100000000,"Naspers, Meituan-Dianping",Series E,2017-05-01
+fr14,8,1000000000,"Naspers, DST Global, Meituan-Dianping",Series H,2018-12-01
+fr15,9,15000000000,"Facebook, Google, Silver Lake, Vista Equity Partners",Private Equity,2020-04-01
+fr16,10,1000000000,"SoftBank Group, Lightspeed Ventures",Series E,2017-09-01
